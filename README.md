@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently studying computer science at the HEIG-VD in Yverdon-les-bains and working part time at ELCA in parallel to my studies. 
 
 <!--
 **JonasTroeltsch/JonasTroeltsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
